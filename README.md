@@ -1,5 +1,5 @@
-⭐ KANBAN BOARD ⭐
-A clean, interactive, drag-and-drop Kanban Task Management Board built with HTML, CSS, and JavaScript.
+																					⭐ KANBAN BOARD ⭐
+												A clean, interactive, drag-and-drop Kanban Task Management Board built with HTML, CSS, and JavaScript.
 
 🚀 Features
 	•	🟦 Three Columns — To-Do, Doing, Done
